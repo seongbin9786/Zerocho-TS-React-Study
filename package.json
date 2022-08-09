@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/webpack": "^5.28.0",
+    "ts-loader": "^9.3.1",
+    "ts-node": "^10.9.1"
+  }
+}
